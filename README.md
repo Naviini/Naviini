@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Navini</h1>
+<h1 align="center">Hi there👋, I'm Navini Wishodha</h1>
 <h3 align="center">I'm passionate about frontend, backend & game developing</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=naviini&label=Profile%20views&color=0e75b6&style=flat" alt="naviini" /> </p>
@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 
-- 🔭 I’m currently working on **a web application**
+- 🔭 I’m currently working on **a web application and a website**
 
 - 🌱 I’m currently learning **Laravel, Netbean,.Net**
 
 - 👯 I’m looking to collaborate on **website developing, game developing & animation stuffs**
 
-- 🤝 I’m looking for help with **PHP, Laravel, java**
+- 🤝 I’m looking for help with **Laravel, java, Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naviini](https://github.com/Naviini)
 
-- 💬 Ask me about **c,c#,HTML,CSS,Javascript**
+- 💬 Ask me about **c,c#,HTML,CSS,Javascript,PHP,java**
 
 - 📫 How to reach me **nvekanayake1@gmail.com**
 
-- ⚡ Fun fact **You can call me Nv 😇**
+- ⚡ Fun fact **You can call me Navii 😇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
