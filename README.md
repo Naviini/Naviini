@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 
-- 🔭 I’m currently working on **a web application and a website**
+- I’m currently working on **a web application and a website**
 
-- 🌱 I’m currently learning **Laravel, Netbean,.Net**
+- I’m currently learning **Laravel, Netbean,.Net**
 
-- 👯 I’m looking to collaborate on **website developing, game developing & animation stuffs**
+- I’m looking to collaborate on **website developing, game developing & animation stuffs**
 
-- 🤝 I’m looking for help with **Laravel, java, Dart**
+- I’m looking for help with **Laravel, java, Dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Naviini](https://github.com/Naviini)
+- All of my projects are available at [https://github.com/Naviini](https://github.com/Naviini)
 
 - 💬 Ask me about **c,c#,HTML,CSS,Javascript,PHP,java**
 
