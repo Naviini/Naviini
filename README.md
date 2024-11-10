@@ -17,11 +17,11 @@
 
 - All of my projects are available at [https://github.com/Naviini](https://github.com/Naviini)
 
-- 💬 Ask me about **c,c#,HTML,CSS,Javascript,PHP,java**
+- Ask me about **c,c#,HTML,CSS,Javascript,PHP,java**
 
-- 📫 How to reach me **nvekanayake1@gmail.com**
+- How to reach me **nvekanayake1@gmail.com**
 
-- ⚡ Fun fact **You can call me Navii 😇**
+- Fun fact **You can call me Navii **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
